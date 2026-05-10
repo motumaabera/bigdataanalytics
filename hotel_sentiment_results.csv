@@ -1,6 +1,13 @@
 Review,Actual_Sentiment,Predicted_Sentiment
-The staff seemed untrained and were not very responsive to customer complaints.,negative,positive
-"The cleanliness of the hotel was impressive, and everything was well maintained.",positive,neutral
 I had a wonderful stay at the hotel. The staff were very friendly and helpful throughout my visit.,positive,positive
+I really enjoyed the hospitality; the staff went above and beyond to make my stay pleasant.,positive,negative
+The hotel charged extra fees that were not explained clearly.,negative,positive
+"The hotel provides basic amenities such as towels, toiletries, and bottled water.",neutral,negative
+"The WiFi was fast and reliable, which helped me finish my work.",positive,negative
+The conference room can be booked for business meetings.,neutral,negative
+The shower pressure was weak and hot water was not consistent.,negative,negative
+"The restaurant opens for breakfast, lunch, and dinner each day.",neutral,positive
+Housekeeping cleaned the room carefully every day during my stay.,positive,negative
+The room rate includes breakfast for one guest.,neutral,negative
 The lobby area is large and suitable for meetings and short waiting periods.,neutral,negative
-"The room size is average, and the facilities are standard.",neutral,negative
+"The room included a desk, a chair, and a small wardrobe.",neutral,negative
